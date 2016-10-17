@@ -3,3 +3,4 @@ git is free software
 git is no so easy to begainer
 But eventually you will "git" it
 love music!
+Creating a new branch is quick & simple.
