@@ -7,3 +7,6 @@ love music!
 Creating a new branch is quick AND simple.
 
 change it a little bit
+ 
+ checkout git stash
+ 
